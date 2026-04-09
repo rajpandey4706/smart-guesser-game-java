@@ -31,6 +31,11 @@ The system generates a random number, and players try to guess it within limited
 
 ### 🔹 Step 1: Clone the repository
 git clone https://github.com/rajpandey4706/smart-guesser-game-java.git
+---
+
+## 📷 Sample Output
+
+![Game Output](Output.png)
 
 ### 🔹 Step 2: Navigate to project folder
 cd smart-guesser-game-java
